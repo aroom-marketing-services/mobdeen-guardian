@@ -1,0 +1,28 @@
+Mobdeen Guardian publish-readiness scan
+Date: 2026-11-10 (Asia/Dubai)
+
+Scope
+- Standalone hackathon submission only.
+- No Mobdeen production source, credentials, infrastructure, family records, payment logic, or account data included.
+
+Acceptance evidence
+- Knowledge index: 29 chunks from 12 source records.
+- Progressive demo: 3 of 3 expected actions matched.
+- Automated tests: 9 of 9 passed.
+- Technical report: official template, exactly 5 pages.
+- Report visual QA: all 5 rendered pages inspected; no clipping, overlap, or unreadable tables.
+- Report accessibility audit: high 0, medium 0, low 1. The single low finding is the intentionally visible GitHub URL in the printable report.
+- Report privacy scrub: core author fields empty; custom properties and revision identifiers removed.
+
+Credential and identity scan
+- No AWS access-key patterns, private-key headers, OpenAI project keys, GitHub personal tokens, Google API keys, Slack bot tokens, internal Mobdeen API domains, AWS account IDs, ARNs, or private contact data found. The public team contact address appears intentionally in the report.
+- The string "sk-" appeared only inside the ordinary phrase "risk-based" and is not a credential.
+- The phone-like value "050 123 4567" exists only as an explicitly synthetic scenario/test fixture used to prove redaction. It is excluded from audit output.
+
+Human-owned items
+- Team leader name, team member names, contact details, and public GitHub URL are complete.
+- Optional demo-video URL.
+- Organizer-confirmed submission channel and cutoff time.
+
+Publication gate
+The repository may be published. Do not send the final competition submission until the organizer-confirmed channel and cutoff are checked; include a video URL only if a video is submitted.

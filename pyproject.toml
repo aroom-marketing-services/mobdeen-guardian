@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mobdeen-guardian"
+version = "1.0.0"
+description = "Policy-grounded AI agent for safe family learning"
+requires-python = ">=3.11"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Mobdeen Team" }]
+
+[project.scripts]
+mobdeen-guardian = "mobdeen_guardian.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

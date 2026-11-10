@@ -1,0 +1,30 @@
+Mobdeen Guardian verification
+Date: 2026-11-10
+Runtime: bundled Python 3
+
+Knowledge base
+- 12 source records verified against SHA-256 values
+- 29 indexed chunks generated
+- 256-dimensional deterministic local vectors
+
+Progressive demonstration
+- Step 1 ALLOW_WITH_GUARDIAN_REVIEW PASS
+- Step 2 BLOCK_AND_NOTIFY_GUARDIAN PASS
+- Step 3 BLOCK_AND_ESCALATE PASS
+- all_expectations_met true
+
+Automated tests
+- 9 tests run
+- 9 passed
+- 0 failed
+
+Coverage
+- Name and phone redaction
+- Child secrecy and school context blocking
+- Guardian review requirement
+- Commercial targeting and inferred vulnerability blocking
+- UAE privacy retrieval
+- Age-appropriate design retrieval
+- ITU Y.3172 retrieval
+- EU AI Act vulnerability retrieval
+- End-to-end progressive scenario and audit privacy

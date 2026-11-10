@@ -1,0 +1,12 @@
+source_id,title,jurisdiction,authority,official_url,accessed_at,role_in_solution
+UAE-PDPL,UAE Personal Data Protection Law,United Arab Emirates,UAE Government,https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws,2026-11-10,Data minimization privacy and purpose controls
+UAE-AI-CHARTER,UAE Charter for the Development and Use of Artificial Intelligence,United Arab Emirates,UAE Government,https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAE-Charter-for-the-Development-and-Use-of-Artificial-Intelligence,2026-11-10,Human wellbeing transparency and accountability
+DUBAI-AI-ETHICS,Dubai AI Ethics Principles and Guidelines,Dubai United Arab Emirates,Digital Dubai,https://www.digitaldubai.ae/knowledge-hub/publications/ai-ethics-principles-guidelines,2026-11-10,Auditability transparency and explainability
+UAE-WADEEMA,Federal Law No 3 of 2016 concerning Child Rights Wadeema,United Arab Emirates,UAE Government,https://u.ae/information-and-services/justice-safety-and-the-law/children-safety,2026-11-10,Child safety welfare and development
+UNICEF-AI-CHILDREN-V3,Guidance on AI and Children Version 3,Global,UNICEF Innocenti,https://www.unicef.org/innocenti/reports/policy-guidance-ai-children,2026-11-10,Child-centred AI comparison
+UK-CHILDRENS-CODE,Age Appropriate Design Code,United Kingdom,Information Commissioners Office,https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/standards-of-age-appropriate-design/,2026-11-10,Age appropriate privacy design comparison
+US-COPPA,Childrens Online Privacy Protection Rule,United States,Federal Trade Commission,https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa,2026-11-10,Parental consent and child data comparison
+EU-AI-ACT,Regulation EU 2024 1689 Artificial Intelligence Act,European Union,European Union EUR-Lex,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689,2026-11-10,Age vulnerability and harmful manipulation comparison
+ITU-Y3172,ITU T Y 3172 Architectural Framework,International,International Telecommunication Union,https://www.itu.int/rec/T-REC-Y.3172,2026-11-10,Machine learning pipeline mapping
+ITU-AI-READINESS,ITU AI Readiness Framework,International,International Telecommunication Union,https://www.itu.int/itu-d/reports/statistics/ai-ready/,2026-11-10,Readiness dimension mapping
+

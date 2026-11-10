@@ -1,0 +1,16 @@
+{
+  "family_id": "synthetic-family-001",
+  "guardian": {
+    "alias": "Guardian 1",
+    "language": "ar"
+  },
+  "children": [
+    {
+      "alias": "Child 1",
+      "age_band": "7-9",
+      "interests": ["reading", "crafts"]
+    }
+  ],
+  "notice": "This file is entirely synthetic and does not represent a real Mobdeen family."
+}
+
